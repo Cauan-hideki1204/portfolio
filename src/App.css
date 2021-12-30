@@ -1,0 +1,45 @@
+.container {
+  width: 100%;
+}
+
+.App {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.containerButton {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.name {
+  margin-top: 120px;
+}
+
+.Button {
+  padding: 24px;
+  width: 300%;
+  margin-bottom: 32px;
+  background-color: aquamarine; 
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.Button:hover{
+  background-color: rgb(96, 172, 146);
+}
+
+.App-link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.App-header {
+  background-color: #afc7f6;
+  min-height: 100vh;
+}
+
+
